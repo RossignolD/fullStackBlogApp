@@ -8996,3 +8996,60 @@
 {"level":30,"time":1747315431193,"pid":76804,"hostname":"greenHeron","msg":"GET /api/posts?page=1&results_per_page=5 - Request received"}
 {"level":30,"time":1747315431195,"pid":76804,"hostname":"greenHeron","message":"Token verification successful","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
 {"level":30,"time":1747315431195,"pid":76804,"hostname":"greenHeron","message":"User authenticated successfully","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
+{"level":30,"time":1747319796272,"pid":85589,"hostname":"greenHeron","msg":"Blog Service running on port 5002"}
+{"level":30,"time":1747319796807,"pid":85589,"hostname":"greenHeron","msg":"Connected to MongoDB"}
+{"level":30,"time":1747319841621,"pid":85683,"hostname":"greenHeron","msg":"Blog Service running on port 5002"}
+{"level":30,"time":1747319841943,"pid":85683,"hostname":"greenHeron","msg":"Connected to MongoDB"}
+{"level":30,"time":1747321055717,"pid":87739,"hostname":"greenHeron","msg":"Blog Service running on port 5002"}
+{"level":30,"time":1747321056243,"pid":87739,"hostname":"greenHeron","msg":"Connected to MongoDB"}
+{"level":30,"time":1747321159041,"pid":87739,"hostname":"greenHeron","msg":"GET /api/posts?page=1&results_per_page=5 - Request received"}
+{"level":30,"time":1747321159046,"pid":87739,"hostname":"greenHeron","message":"Token verification successful","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
+{"level":30,"time":1747321159046,"pid":87739,"hostname":"greenHeron","message":"User authenticated successfully","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
+{"level":30,"time":1747354362397,"pid":87739,"hostname":"greenHeron","msg":"GET /api/posts?page=1&results_per_page=5 - Request received"}
+{"level":30,"time":1747354362400,"pid":87739,"hostname":"greenHeron","message":"Token verification successful","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
+{"level":30,"time":1747354362400,"pid":87739,"hostname":"greenHeron","message":"User authenticated successfully","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
+{"level":30,"time":1747354362404,"pid":87739,"hostname":"greenHeron","msg":"GET /api/posts?page=1&results_per_page=5 - Request received"}
+{"level":30,"time":1747354362406,"pid":87739,"hostname":"greenHeron","message":"Token verification successful","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
+{"level":30,"time":1747354362406,"pid":87739,"hostname":"greenHeron","message":"User authenticated successfully","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
+{"level":30,"time":1747354362409,"pid":87739,"hostname":"greenHeron","msg":"GET /api/posts?page=1&results_per_page=5 - Request received"}
+{"level":30,"time":1747354362411,"pid":87739,"hostname":"greenHeron","message":"Token verification successful","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
+{"level":30,"time":1747354362411,"pid":87739,"hostname":"greenHeron","message":"User authenticated successfully","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
+{"level":30,"time":1747354362446,"pid":87739,"hostname":"greenHeron","msg":"GET /api/posts?page=1&results_per_page=5 - Request received"}
+{"level":30,"time":1747354362449,"pid":87739,"hostname":"greenHeron","message":"Token verification successful","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
+{"level":30,"time":1747354362449,"pid":87739,"hostname":"greenHeron","message":"User authenticated successfully","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
+{"level":30,"time":1747354362451,"pid":87739,"hostname":"greenHeron","msg":"GET /api/posts?page=1&results_per_page=5 - Request received"}
+{"level":30,"time":1747354362453,"pid":87739,"hostname":"greenHeron","message":"Token verification successful","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
+{"level":30,"time":1747354362453,"pid":87739,"hostname":"greenHeron","message":"User authenticated successfully","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
+{"level":30,"time":1747354509684,"pid":87739,"hostname":"greenHeron","msg":"GET /api/posts?page=1&results_per_page=5 - Request received"}
+{"level":30,"time":1747354509685,"pid":87739,"hostname":"greenHeron","message":"Token verification successful","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
+{"level":30,"time":1747354509685,"pid":87739,"hostname":"greenHeron","message":"User authenticated successfully","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
+{"level":30,"time":1747395040743,"pid":87739,"hostname":"greenHeron","msg":"GET /api/posts?page=1&results_per_page=5 - Request received"}
+{"level":30,"time":1747395040745,"pid":87739,"hostname":"greenHeron","message":"Token verification successful","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
+{"level":30,"time":1747395040745,"pid":87739,"hostname":"greenHeron","message":"User authenticated successfully","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
+{"level":30,"time":1747395040749,"pid":87739,"hostname":"greenHeron","msg":"GET /api/posts?page=1&results_per_page=5 - Request received"}
+{"level":30,"time":1747395040751,"pid":87739,"hostname":"greenHeron","message":"Token verification successful","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
+{"level":30,"time":1747395040751,"pid":87739,"hostname":"greenHeron","message":"User authenticated successfully","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
+{"level":30,"time":1747395040755,"pid":87739,"hostname":"greenHeron","msg":"GET /api/posts?page=1&results_per_page=5 - Request received"}
+{"level":30,"time":1747395040757,"pid":87739,"hostname":"greenHeron","message":"Token verification successful","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
+{"level":30,"time":1747395040757,"pid":87739,"hostname":"greenHeron","message":"User authenticated successfully","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
+{"level":30,"time":1747395040773,"pid":87739,"hostname":"greenHeron","msg":"GET /api/posts?page=1&results_per_page=5 - Request received"}
+{"level":30,"time":1747395040775,"pid":87739,"hostname":"greenHeron","message":"Token verification successful","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
+{"level":30,"time":1747395040775,"pid":87739,"hostname":"greenHeron","message":"User authenticated successfully","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
+{"level":30,"time":1747395040779,"pid":87739,"hostname":"greenHeron","msg":"GET /api/posts?page=1&results_per_page=5 - Request received"}
+{"level":30,"time":1747395040781,"pid":87739,"hostname":"greenHeron","message":"Token verification successful","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
+{"level":30,"time":1747395040781,"pid":87739,"hostname":"greenHeron","message":"User authenticated successfully","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
+{"level":30,"time":1747395041053,"pid":87739,"hostname":"greenHeron","msg":"GET /api/posts?page=1&results_per_page=5 - Request received"}
+{"level":30,"time":1747395041055,"pid":87739,"hostname":"greenHeron","message":"Token verification successful","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
+{"level":30,"time":1747395041055,"pid":87739,"hostname":"greenHeron","message":"User authenticated successfully","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
+{"level":30,"time":1747395041073,"pid":87739,"hostname":"greenHeron","msg":"GET /api/posts?page=1&results_per_page=5 - Request received"}
+{"level":30,"time":1747395041075,"pid":87739,"hostname":"greenHeron","message":"Token verification successful","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
+{"level":30,"time":1747395041076,"pid":87739,"hostname":"greenHeron","message":"User authenticated successfully","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
+{"level":30,"time":1747395053821,"pid":87739,"hostname":"greenHeron","msg":"GET /api/posts?page=1&results_per_page=5 - Request received"}
+{"level":30,"time":1747395053823,"pid":87739,"hostname":"greenHeron","message":"Token verification successful","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
+{"level":30,"time":1747395053823,"pid":87739,"hostname":"greenHeron","message":"User authenticated successfully","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
+{"level":30,"time":1747395053864,"pid":87739,"hostname":"greenHeron","msg":"GET /api/posts?page=1&results_per_page=5 - Request received"}
+{"level":30,"time":1747395053866,"pid":87739,"hostname":"greenHeron","message":"Token verification successful","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
+{"level":30,"time":1747395053866,"pid":87739,"hostname":"greenHeron","message":"User authenticated successfully","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
+{"level":30,"time":1747395888001,"pid":87739,"hostname":"greenHeron","msg":"GET /api/posts?page=1&results_per_page=5 - Request received"}
+{"level":30,"time":1747395888005,"pid":87739,"hostname":"greenHeron","message":"Token verification successful","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
+{"level":30,"time":1747395888005,"pid":87739,"hostname":"greenHeron","message":"User authenticated successfully","userId":"682361f46877ef0e0328e607","email":"meirconnor@gmail.com"}
